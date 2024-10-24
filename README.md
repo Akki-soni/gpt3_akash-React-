@@ -90,7 +90,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://gpt3-akash.vercel.app/)
+[View Live Demo](https://gpt3-akash-react.vercel.app/)
 
 ## 🤝 Contributing
 
