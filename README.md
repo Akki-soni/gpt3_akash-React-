@@ -10,6 +10,10 @@
 <h1 align="center">GPT-3 AKASH</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+</p>
+
+<p align="center">
   A simple, modern-looking GPT-3 Design Using React.This Website is Fully Created with React.
 </p>
 
